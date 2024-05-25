@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nzd.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94b2bb0ea97fcf4b05f276be04e5fa0de43bbf62")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nzd.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nzd.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
